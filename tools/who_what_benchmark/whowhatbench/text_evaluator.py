@@ -12,14 +12,16 @@ default_data = {
         "prompts": [
             "Who is Mark Twain?",
             "Who is William Shakespeare?",
-            "Mirror, mirrow on the wall who is the boldest of the world?",
-            "Compute the result of the following equasion: \"2 + 3 =\"?",
-            "What is the capital of Great Brintain? When was it founded?",
+            "Mirror, mirror on the wall who is the boldest of the world?",
+            "Compute the result of the following equation: \"2 + 3 =\"?",
+            "Solve the following system of equations: \"2 * x + y = 10, -x + 3 * y = 9\"?",
+            "What is the capital of Great Britain? When was it founded?",
             "Explain the following proverb: \"All that glitters is not gold\"?",
             "Continue the following proverb and explain it: \"A penny saved is ...\"",
-            "Who won the Nobble prize in Phisics in 1921? What he is famous for?",
+            "Who won the Nobel Prize in Physics in 1921? What he is famous for?",
             "Continue the song: \"And now, the end is near ...\"",
             "What do you know about Greco-Persian wars?",
+            "What are the main principles of Daosism?",
             "Who is Leo Tolstoy?",
             "Who is the author of 'Time is money' book?",
             "Who is Stephen King?",
@@ -32,17 +34,22 @@ default_data = {
             "Come up with a joke in verse.",
             """Clean, but not water,
             White, but not snow,
-            Sweet, but not ice-cream.
+            Sweet, but not ice cream.
             What is it?""",
-            # "What is Perl?",
-            # "What is OpenCV?",
-            # "Who is the most famous writer?",
-            # "Who is the most famous inventor?",
-            # "Who is the most famous mathematician?",
-            # "Who is the most famous composer?",
-            # "Who is the most famous programmer?",
-            # "Who is the most famous athlete?",
-            "How do you feel after this interview? We will provide the score very soon =)",
+            """\"The full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed.
+            Repair work is ongoing in Hawick and many roads in Peeblesshire remain badly affected by standing water.
+            Trains on the west coast mainline face disruption due to damage at the Lamington Viaduct. Many businesses
+            and householders were affected by flooding in Newton Stewart after the River Cree overflowed into the town.
+            First Minister Nicola Sturgeon visited the area to inspect the damage. The waters breached a retaining wall,
+            flooding many commercial properties on Victoria Street - the main shopping thoroughfare. Jeanette Tate, who owns
+            the Cinnamon Cafe which was badly affected, said she could not fault the multi-agency response once the flood hit.
+            However, she said more preventative work could have been carried out to ensure the retaining wall did not fail.
+            "It is difficult but I do think there is so much publicity for Dumfries and the Nith - and I totally appreciate
+            that - but it is almost like we're neglected or forgotten," she said. "That may not be true but it is perhaps
+            my perspective over the last few days.\"
+            Summarize the above text in one sentence.
+            """,
+            "What would be the set of prompts you recommend for testing the Large Language Model?",
         ],
     },
     "cn": {
