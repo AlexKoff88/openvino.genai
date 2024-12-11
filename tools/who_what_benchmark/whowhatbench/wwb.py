@@ -552,7 +552,6 @@ def print_text_results(evaluator):
         ref_text = ""
         actual_text = ""
         diff = ""
-        #print("optimized_model: ", e["optimized_model"])
         for l1, l2 in zip(
             e["source_model"].splitlines(), e["optimized_model"].splitlines()
         ):
